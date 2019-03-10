@@ -1,0 +1,6 @@
+[submodule "THEROBOCON2K18"]
+	path = THEROBOCON2K18
+	url = https://github.com/Dhruv2012/THEROBOCON2K18.git
+[submodule "Robocon2017"]
+	path = Robocon2017
+	url = https://github.com/DRISHTI-SVNIT/Robocon2017.git
